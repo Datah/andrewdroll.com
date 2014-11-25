@@ -1,0 +1,258 @@
+@font-face {
+	font-family:"Philosopher";
+	src: url("http://www.datah.net/fonts/Philosopher.otf") format("opentype");
+	}
+
+body{
+	background-color:#a8cbdb;
+	}
+	
+.content{
+	margin:auto;
+	font-family:'Philosopher', 'Cabin', 'Cambria', Serif;
+	box-shadow: 3px 0px 5px 1px #81a5aa;
+	}
+	
+.header{
+	background-color:#e3fff4;
+	margin:0px;
+	overflow:auto;
+	border-top-right-radius:8px;
+	border-top-left-radius:8px;
+	}
+	
+.titleimg h1{
+	margin-bottom:5%;
+	position:relative;
+	top:85%;
+	margin-left:20px;
+	}
+	
+.nav ul{
+	display:inline;
+	margin:10px 5px 10px 0px;
+	float:right;
+	}
+	
+.nav li{
+	display:inline;
+	margin-left:20px;
+	font-size:1em;
+	}
+	
+.nav li a{
+	padding:5px;
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	width:10%;
+	}
+
+.nav li a:hover{
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	border:1px solid black;
+	padding:4px;
+	border-radius:5px;
+	}
+	
+.nav li a:active{
+	background-color:#a0dbe3;
+	border:1px solid black;
+	text-decoration:none;
+	font-size:1.2em;
+	padding:4px;
+	color:#000000;
+	border-radius:5px;
+	}
+	
+.nav li a:visited{
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	}
+
+#pagehead {
+	color:#ffffff;
+	}
+
+.mainbody{
+	background-color:#c3ccde;
+	height:auto;
+	overflow:auto;
+	font-family: 'Cabin', 'Philosopher', 'Cambria', Serif;
+	padding-bottom:1.5em;
+	}
+	
+.mainbody h1{
+	font-size:2em;
+	}
+	
+.mainbody p{
+   -moz-hyphens: auto;
+    hyphens: auto;
+	font-size:1em;
+	}
+	
+.mainbody a{
+	color:#a88400;
+	text-decoration:none;
+	}
+
+.mainbody a:hover{
+	color:#a88400;
+	text-decoration:underline;
+	}
+
+.mainbody a:visited{
+	color:#a88400;
+	text-decoration:none;
+	}
+	
+.left-wide{
+	margin:10px 0px 10px 5px;
+	width:65%;
+	display:inline-block;
+	font-family: 'Cabin', 'Philosopher', 'Cambria', Serif;
+	}
+	
+.right-wide{
+	margin:10px 5px 10px 0px;
+	width:65%;
+	float:right;
+	display:inline-block;
+	font-family: 'Cabin', 'Philosopher', 'Cambria', Serif;
+	}
+	
+.intro{
+	border-bottom:1px solid black;
+	border-radius:5px;
+	}
+	
+.contactlinks{
+	margin:auto;
+	padding:10px;
+	width:9em;
+	border:2px solid #4895c2;
+	border-radius:5px;
+	}
+
+.contactlinks img{
+	width: 2.7em;
+	}
+	
+.firstletter{
+	font-size:1.4em;
+	}
+
+	
+.right{
+	float:right;
+	margin:10px 5px 10px 0px;
+	width:30%;
+	display:inline-block;
+	}
+	
+.left{
+	margin:10px 0px 10px 5px;
+	display:inline-block;
+	width:30%;
+	}
+	
+.left .container{
+	background-color:#22241e;
+	display:block;
+	padding:0px;
+	margin:5px 0px 5px 0px;
+	color:#ffffff;
+	border-radius:4px;
+	}
+	
+.left .container p{
+	padding:5px 5px 5px 5px;
+	}
+.left .container h2{
+	padding:5px 5px 5px 5px;
+	}
+	
+	
+	
+#mypic{
+	padding:0px;
+	margin:0px;
+	display:block;
+	background-image:url("/images/andrew.jpg");
+	width:280px;
+	height:248px;
+	font-family: 'Philosopher';
+	}
+	
+#mypic h3{
+	font-size:1.5em;
+	position:relative;
+	top:75%;
+	margin:0px 0px 0px 7%;
+	color:#ffffff;
+	}
+	
+#mypic p{
+	font-size:0.9em;
+	position:relative;
+	top: 76%;
+	margin: 0px 0px 0% 7%;
+	padding:0px;
+	color:#ffffff;
+	}
+
+.right .container{
+	background-color:#22241e;
+	display:block;
+	padding:0px;
+	margin:5px 0px 5px 0px;
+	color:#ffffff;
+	border-radius:4px;
+	}
+	
+.right .container p{
+	text-justify:distribute;
+	padding:5px 5px 5px 5px;
+	}
+	
+.right .container h2{
+	padding:5px 5px 5px 5px;
+	}
+	
+.centerwide {
+	text-align:center;
+	}
+	
+.centerwide .container{
+	background-color:#22241e;
+	border-radius:6px;
+	width:90%;
+	margin:auto;
+	color:#ffffff;
+	padding:10px 5px 5px 10px;
+	}
+
+.fineprint{
+	font-size:0.9em;
+	padding-left:5px;
+	font-family:'Philosopher', 'Cabin', 'Cambria', Serif;
+	}
+	
+.footer {
+	background-color:#a0dbe3;
+	text-decoration:bold;
+	height:8em;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+	font-family: 'Cabin', 'Philosopher', 'Cambria', Serif;
+	}
+	
+.footer main{
+	width:30%;
+	}
+	
+	
