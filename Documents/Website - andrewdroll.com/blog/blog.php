@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<base href="http://www.datah.net/"/>
+	<base href="http://www.andrewdroll.com/"/>
 	<?php include '../fonts.html' ;?>
 	<link type="text/css" rel="stylesheet" href="mainstyle.css"/>
 	<title>Andrew Droll - Blog</title>
@@ -10,7 +10,6 @@
 </head>
 
 <body>
-
 <div class="content" style="width:960px">
 
 	<!-- header -->
@@ -33,17 +32,22 @@
 	<div class="mainbody">
 	<!-- All content in main pane should go in this div -->
 	
-		<div class="right-wide">
+		<div class="left-wide">
 		<!--can change to class=right-wide if the wide pane should be right -->
 			<div class="intro">
-				<h1>Blog entries coming soon.</h1>
+			<h2>This page is under development. Archived entries are listed below.</h2>
+			</div>
+			
+			<div id="archived">
+			<h2>Archived blog entries: The Bitcoin series</h2>
+			<?php include 'archblogs.html';?>
 			</div>
 		</div>
 
 
 
 <!-- Right panes start here -->
-<!-- can change to class = left if the narrow pane should be left -->
+<!-- can change to class = left if the narrow pane should be left
 		<div class="left">
 			<!--<div id="mypic">
 				<h3>Andrew Droll</h3>
@@ -62,10 +66,10 @@
 					background includes research from particle physics, to graph theory, to number theory, to information technology.
 					Three of my favorite things are traveling, teaching, and playing video games. <a href="/who.php">More about me.</a></p>
 				</div>
-			</div>-->
+			</div>
 
 		</div>
-<!-- End right panes -->
+	<!--End right panes -->
 
 
 <!-- Close mainbody div -->

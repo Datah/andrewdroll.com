@@ -1,0 +1,296 @@
+body{
+	background-image:url('http://www.andrewdroll.com/images/bgmaybe.jpg');
+	background-repeat:no-repeat;
+	background-color:#a8cbdb;
+	}
+
+.header {
+	background-color:#f4f5e3;
+	width:1400px;
+	margin:auto;
+        margin-top:0px;
+        margin-bottom:0px;
+	}
+ul{
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+
+ul li{
+	margin-top:2px;
+	}
+
+h3{
+	padding:0.5em 0em 0.5em 0em;
+	margin:0em;
+	}
+		
+.mainbody{
+	margin:auto;
+	margin-bottom:0px;
+        margin-top:0px;
+	font-family:'Cabin', 'Philosopher', 'Cambria', Serif;
+	/*background-color:#fbfbec;*/
+	border-radius:10px;
+	width:1400px;
+	/*box-shadow: 3px 0px 5px 1px #81a5aa;*/
+	position:relative;
+	top:2.5em;
+	}
+
+.mbbground{
+	height:100%;
+	width:100%;
+	border-radius:10px;
+	background-color:#fbfbec;
+	box-shadow: 3px 0px 5px 1px #81a5aa;
+	position:absolute;
+	opacity:1;
+	z-index:-1;
+	}
+	
+.mainbody .intro{
+	border-bottom:1px solid black;
+	border-radius:5px;
+	overflow:auto;
+	width:75%;
+	margin:auto;
+	padding:0px 0.5em 0px 0.5em;
+	}
+	
+.mainbody a{
+	color:#000000;
+	text-decoration:none;
+	padding:0px;
+	margin:0px;
+	}
+
+.mainbody a:hover{
+	color:#000000;
+	text-decoration:underline;
+	}
+
+.mainbody a:visited{
+	color:#000000;
+	text-decoration:none;
+	}
+	
+.intro p{
+	padding:0px;
+	margin:0px;
+	}
+
+.intro h1{
+	text-align:center;
+	padding:0px;
+	margin:0px;
+	}
+
+.hleft {
+	float:left;
+	display:inline-block;
+	width:37.5%;
+	margin-top:0.5em;
+	}
+	
+.hright {
+	display:inline-block;
+	float:right;
+	width:37.5%;
+	margin-top:0.5em;
+	text-align:right;
+	}
+	
+.hcenter{
+	text-align:center;
+	width:25%;
+	margin:auto;
+	float:right;
+	display:inline-block;
+	}
+
+.resumec{
+	width:98%;
+	margin: auto;
+	margin-top:0px;
+	padding-top:0.25em;
+	padding-bottom:0.7em;
+	margin-bottom:0.5%;
+	overflow:auto;
+	}
+	
+.rleft{
+	display:inline-block;
+	width:24%;
+	float:left;
+	border-right:1px solid black;
+	margin:0px;
+	padding:0px;
+	}
+
+.rrcontainer{
+	border-bottom:1px solid black;
+	border-radius:3px;
+	}
+	
+#employment {
+	margin-top:0.7em;
+	height:35%;
+	}
+	
+	
+.rcenter-wide{
+	display:inline-block;
+	float:right;
+	width:54%;
+	margin-right:0.7em;
+	padding:0px;
+	padding-right:0.5em;
+	border-right:1px solid black;
+	}
+
+.rlcontainer h3{
+	padding-top:0.5em;
+	padding-bottom:0.4em;
+	margin:0px;
+	}
+	
+.quals{
+	height:35%;
+	}
+	
+.sl{
+	width:50%;
+	display:inline-block;
+	}
+	
+.sr{
+	width:50%;
+	float:right;
+	display:block;
+	}
+	
+.skillstable p {
+	padding-bottom:0.4em;
+	margin:0px;
+	}
+
+.edrow p {
+	padding:0px;
+	margin:0px;
+	}
+
+.edrow img{
+	padding-top:0.1em;
+	}
+
+.edrow{
+	padding-bottom:0.5em;
+	}
+	
+.nav {
+	font-family:'Philosopher', 'Cabin', 'Cambria', Serif;
+	margin:auto;
+	margin-top:0px;
+	margin-bottom:0px;
+	width:1400px;
+	opacity:0.8;
+        position:absolute;
+	height:2.1em;
+	font-size:1.2em;
+	top:0px;
+	text-align:center;
+	z-index:1;
+	}
+	
+.nav p{
+	display:inline-block;
+	margin:auto;
+	font-size:1em;
+	padding:0.3em 0px 0.2em 0px;
+	}
+	
+.nav a{
+	padding:5px;
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	width:10%;
+	}
+
+.nav a:hover{
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	border:1px solid black;
+	padding:4px;
+	border-radius:5px;
+	}
+	
+.nav a:active{
+	background-color:#a0dbe3;
+	border:1px solid black;
+	text-decoration:none;
+	font-size:1.2em;
+	padding:4px;
+	color:#000000;
+	border-radius:5px;
+	}
+	
+.nav a:visited{
+	text-decoration:none;
+	font-size:1.2em;
+	color:#000000;
+	}
+	
+	
+.rright{
+	display:inline-block;
+	width:19%;
+	float:right;
+	margin:0px;
+	padding:0px;
+	}
+	
+.job p{
+	padding:0px;
+	margin:0px;
+	}
+
+.job{
+	margin-bottom:0.8em;
+	}
+
+.jplace{
+	float:right;
+	}
+
+.jlink{
+float:right;
+}
+	
+#Textbox {
+	padding:0px 0.1em 0px 0.2em;
+	border:1px solid #0493ca;
+	background-color:#cfe5ed;
+	border-radius:5px;
+	margin-top:0.7em;
+	}
+	
+.footer{
+	margin:auto;
+	margin-top:3.5em;
+	margin-bottom:0px;
+	padding:2px;
+	width:1400px;
+	text-align:center;
+	font-family:'Cabin', 'Philosopher', 'Sans';
+	font-size:0.9em;
+	z-index:2;
+	position:relative;
+	}
+
+.footer p{margin:0px;padding:0px;
+	}

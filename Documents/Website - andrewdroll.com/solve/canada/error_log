@@ -1,0 +1,16 @@
+1466455572: /home2/andreyc9/public_html/solve/canada/ssv3_payload_extractor-nqx5lzUpZ3.php startup
+[13-Jul-2016 00:50:44 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home2/andreyc9/public_html/solve/canada/wp-includes/class-wp-xmlrpc-server.php on line 596
+[15-Jul-2016 03:42:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home2/andreyc9/public_html/solve/canada/wp-includes/class-wp-xmlrpc-server.php on line 596
+[20-Aug-2016 00:44:26 UTC] PHP Warning:  require_once(/home2/andreyc9/public_html/solve/canada/wp-content/plugins/jetpack/sync/class.jetpack-sync-users.php): failed to open stream: No such file or directory in /home2/andreyc9/public_html/solve/canada/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php on line 30
+[20-Aug-2016 00:44:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home2/andreyc9/public_html/solve/canada/wp-content/plugins/jetpack/sync/class.jetpack-sync-users.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/andreyc9/public_html/solve/canada/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php on line 30
+[30-Nov-2016 04:03:12 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home2/andreyc9/public_html/solve/canada/wp-includes/class-wp-xmlrpc-server.php on line 596
+[01-Dec-2016 04:10:28 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home2/andreyc9/public_html/solve/canada/wp-includes/class-wp-xmlrpc-server.php on line 596
+[12-Feb-2017 03:02:59 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address:  (setFrom) wordpress@' in /home2/andreyc9/public_html/solve/canada/wp-includes/class-phpmailer.php:1023
+Stack trace:
+#0 /home2/andreyc9/public_html/solve/canada/wp-includes/pluggable.php(352): PHPMailer->setFrom('wordpress@', 'WordPress', false)
+#1 /home2/andreyc9/public_html/solve/canada/wp-admin/includes/class-wp-automatic-updater.php(769): wp_mail('you@example.com', '[solvecanada] Y...', 'Howdy! Your sit...', '')
+#2 /home2/andreyc9/public_html/solve/canada/wp-admin/includes/class-wp-automatic-updater.php(501): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#3 /home2/andreyc9/public_html/solve/canada/wp-admin/includes/class-wp-automatic-updater.php(470): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#4 /home2/andreyc9/public_html/solve/canada/wp-includes/update.php(532): WP_Automatic_Updater->run()
+#5 [internal function]: wp_maybe_auto_update('')
+#6 /home2/andreyc9/public_html/solve/canada/wp-includes/class-wp- in /home2/andreyc9/public_html/solve/canada/wp-includes/class-phpmailer.php on line 1023

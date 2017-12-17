@@ -1,0 +1,62 @@
+@font-face {
+	font-family:"Philosopher";
+	src: url("http://www.andrewdroll.com/fonts/Philosopher.otf") format("opentype");
+	}
+
+body{
+	background-color:#a8cbdb;
+	background-image:url("http://www.solvecanada.org/images/UNESCO_canal_pic.jpg");
+	background-repeat:no-repeat;
+background-size:cover;
+	}
+	
+.solvelogo {
+background-image:url("http://www.solvecanada.org/images/SolveHugeNoBG.png");
+	width:43em;
+height:15em;
+background-size:43em 15em;
+background-repeat:no-repeat;
+margin-left:auto;
+margin-right:auto;
+	}
+
+.message{
+background-color:#a8cbdb;
+border-radius:4px;
+box-shadow: 4px 0px 7px 2px #81a5aa;
+padding-top:0em;
+padding-bottom:0.1em;
+position:fixed;
+bottom:1em;
+left:1em;
+right:1em;
+}
+
+.msg {
+font-family:'Philosopher', 'Cabin', 'Cambria', Serif;
+font-size:4em;
+margin-left:auto;
+margin-right:auto;
+
+color:rgb(53,45,45);
+text-align:center;
+
+}
+
+.inspired{
+font-family:'Philosopher', 'Cabin', 'Cambria', Serif;
+float:right;
+right:2em;
+display:fixed;
+top:0em;
+float:right;
+
+}
+
+.inspired a{
+color:black;
+}
+
+	
+
+	

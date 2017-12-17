@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<base href="http://www.datah.net/"/>
+	<base href="http://www.andrewdroll.com/"/>
 	<?php include 'fonts.html' ;?>
 	<link type="text/css" rel="stylesheet" href="mainstyle.css"/>
 	<title>Andrew Droll - Bio</title>
@@ -36,40 +36,19 @@
 		<div class="right-wide">
 		<!--can change to class=right-wide if the wide pane should be right -->
 			<div class="intro" style="border:none">
+			<h3>Bio</h3>
 			</div>
-			<p><span class="firstletter">M</span>y name is Andrew Droll. I was born on July 26, 1985. I am Canadian first, but I am also a dual citizen of the United 
+			<p>As a child, I was fascinated by science fiction - and when I grew older, this fascination lead to a love for real-life science and mathematics. In high school I discovered computers and programming, and they changed my world again.
+			The dreams that these passions inspired drove me to pursue an undergraduate degree in Mathematics and Physics, and then to graduate school in mathematics. Meanwhile, my love of programming and technology took a back seat for a time - yet I could not resist it, and kept working as an on-call Technology Consultant providing services to a small Ottawa business even through my years in academia. Now, having conquered my academic goals - and having done some amazing research in the process, on things like Higgs boson physics and approaches to proving the Riemann hypothesis - I am enthusiastic about my move into the technology industry for the next chapter of my journey.</p>
+			
+			
+			<p>Some of my not-entirely-professional interests include: Travelling, hot (yes, actually hot) food, teaching, writing, photography, PC games, philosophy, classical European art, and watching the Olympics (I went to China for the 2008 Summer Olympics, and hope to visit South Korea for the 2018 Winter Olympics).<p>
+			<!--<p><span class="firstletter">M</span>y name is Andrew Droll. I was born on July 26, 1985. I am Canadian first, but I am also a dual citizen of the United 
 			States through my parents. I live in Ottawa, Ontario - the beautiful Canadian capital city.</p>
 			<p>I obtained my master's and doctoral degrees in mathematics in 2008 and 2012, respectively, from Queen's University 
 			in Kingston, Ontario. My undergraduate degree was in mathematics and physics. I've published research in Higgs boson physics,
 			number theory, and graph theory, and spent a good few years working on a new way to try to prove the Riemann hypothesis,
-			among other things. If you're interested in additional <a href="/pro.html">professional information</a>... well, click the link! This page, however,
-			is more about convincing you that I'm an actual person.</p>
-			<p>I am fortunate enough to have a brilliant, amazing, and beautiful younger sister, incomparable friends who I trust completely
-			regardless of any periods of separation, and parents who love me unconditionally (and who have supported me almost unconditionally
-			- with just the right amount of hesitancy).</p>
-			<p>I love travelling, teaching, talking about ideas, and solving problems. My romantic side loves extracting beauty and joy from 
-			simple things in the world and in other people. I have a mathematician's healthy sense of elegance. Perhaps most important to the
-			present context, I love intellectual conversation of every type. So if you want to talk about ANYTHING, then <a href="mailto:andrew.math@gmail.com">e-mail me</a>
-			or leave a comment on this site.</p>
-			<p>As far as traveling, so far I've been fortunate enough to visit or live in a number of amazing places - Japan, China, Germany, Russia, and all
-			over the USA, among others. I was in China for the Beijing Olympic games, and I've spent New Years' Eve walking down the Las Vegas strip. I've been
-			to a wedding on a Hawaiian beach, stood above the Grand Canyon, been to the top of the Sears' tower, stayed at an apartment across the street from
-			Carnegie Hall, climbed Mount Fuji, zip-lined down from the Great Wall, and played chess on a train from Rostov to Moscow. I always travel with friends,
-			usually take tons of photos, and am always looking forward to the next adventure.</p>
-			<p>I am a fan of mathematics, science, programming, writing, philosophy, web development, photography, museums, bicycling, reading, chess, spanakopita, hot (yes, actually hot) food,
-			sleeping, badminton, long walks, and trains, amongst countless other things. I've recently started to really dig cooking. My musical tastes are quite
-			varied, from classical, to classic rock, to pop, electronic, reggae, and RnB, to contemporary hybrid instrumental and broadway musical numbers.</p>
-			<p>I also like video games. I remember playing games on my first computer - a 3x86 running MS DOS - in 1991 when I was six years old, and coding my
-			own games from magazines on a friend's Commodore 64 before that. I've never stopped. To list all of the games I've played over the years would be
-			impossible, but I've always been mostly a PC gamer. A few of my favorites have been (in very rough chronological order):</p>
-			<p style="font-size:0.8em;position:relative;width:85%;margin-left:10%">Command and Conquer, Masters of Orion, X-Wing vs. TIE Fighter, Civilization II, SimCity (and SimFarm, SimAnt, and SimTower), Solar Winds,
-			Sonic the Hedgehog, Ascendancy, Subspace: Continuum, Age of Empires, Crash Bandicoot, Total Annihilation, Baldur's Gate, Baldur's Gate II,
-			Starcraft, Half-Life, Counter-Strike, Team Fortress Classic, RollerCoaster Tycoon, Unreal Tournament, Diablo II, Planetarion, Cosmic Rift,
-			World of Warcraft, Portal, Portal 2, Knights of the Old Republic, Galactic Civilizations II, Supreme Commander, Sins of a Solar Empire, Civilization V,
-			League of Legends, Skyrim, FTL, World of Goo, and Hearthstone.</p>
-			<p>Through my years in gaming, I've made hundreds of friends around the world, played competitively in tournament scenes, attended conventions, and
-			been invited to provide development feedback and testing to major studios - it's an exciting world to have been part of.</p>
-			<p>That's it for now. There's a lot more to know about me, but this is a start!</p>
+			among other things. If you're interested in additional <a href="/pro.html">professional information</a></p>-->
 		</div>
 
 
@@ -79,10 +58,16 @@
 		<div class="left">
 			
 			<div class="contactlinks">
-				<a href="https://www.facebook.com/andrew.droll" target="_blank"><img src="/images/fb.png"/></a>
-				<a href="http://www.linkedin.com/in/andrewdroll" target="_blank"><img src="/images/linkedin.png"/></a>
-				<a href="mailto:andrew.math@gmail.com"><img src="/images/email.png"/></a>
+				<a href="https://twitter.com/andrewgnowit" target="_blank"><img src="/images/twitterI.png"/></a>
+			        <a href="http://www.linkedin.com/in/andrewdroll" target="_blank"><img src="/images/linkedin.png"/></a>
+				<a href="mailto:andrew@gnowit.com"><img src="/images/email.png"/></a>
 			</div>
+
+
+<p/><a href="http://www.gnowit.com" target="_blank"><img src="/images/gnowitBigger.png" style="display:block;margin:0 auto;"/></a>
+
+<p/>
+<p/><p style="text-align:center">Change the world.<br/> Join the #SolveMIT community.</p><a href="http://solve.mit.edu" target="_blank"><img src="/images/solveTwitter.png" style="display:block;margin:0 auto;"/></a></p>
 			
 			<div id="whosidebar">
 				<div>
@@ -90,13 +75,16 @@
 				</div>
 				<div style="text-align:center;">
 					<div style="float:left;width:50%;">
-						<p style="margin-top:2px;padding-top:2px;"><a href="http://ocw.mit.edu/index.htm" target="_blank">OpenCourseWare</a></p>
+
+						<p style="margin-top:2px;padding-top:2px;"><a href="https://www.edx.org/" target="_blank">edX</a></p>
+<p><a href="http://ocw.mit.edu/index.htm" target="_blank">OpenCourseWare</a></p>
 						<p><a href="http://www.khanacademy.org/" target="_blank">Khan Academy</a></p>
 						<p><a href="http://www.arxiv.org/" target="_blank">ArXiv</a></p>
 						<p><a href="http://www.ams.org/" target="_blank">AMS</a></p>
 					</div>
 					<div style="width:50%;float:left">
-						<p style="margin-top:2px;padding-top:2px;"><a href="http://www.physicsforums.org/" target="_blank">physicsforums</a></p>
+						<p style="margin-top:2px;padding-top:2px;"><a href="http://www.ted.com/talks" target="_blank">TED</a></p>
+<p><a href="http://www.physicsforums.org/" target="_blank">physicsforums</a></p>
 						<p><a href="http://mathworld.wolfram.com/" target="_blank">MathWorld</a></p>
 						<p><a href="http://www.mathjobs.org/" target="_blank">MathJobs</a></p>
 						<p><a href="http://cms.math.ca/" target="_blank">CMS</a></p>
@@ -114,7 +102,6 @@
 					<div style="float:left;width:50%;">
 						<p style="margin-top:2px;padding-top:2px;"><a href="http://www.theonion.com/" target="_blank">The Onion</a></p>
 						<p><a href="http://www.slashdot.org/" target="_blank">Slashdot</a></p>
-						<p><a href="http://www.thecomedynetwork.ca/shows/thecolbertreport" target="_blank">The Colbert Report</a></p>
 					</div>
 				</div>
 			</div>

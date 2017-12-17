@@ -2,7 +2,7 @@
 <html lang='en'>
 
 <head>
-	<base href="http://www.datah.net/"/>
+	<base href="http://www.andrewdroll.com/"/>
 	<?php include 'fonts.html' ;?>
 	<link type="text/css" rel="stylesheet" href="mainstyle.css"/>
 	<title>Andrew Droll - Template</title>
@@ -23,7 +23,7 @@
 
 		<div class="nav">
 			<div class="container">
-				<?php include 'http://www.datah.net/nav.html' ;?>
+				<?php include 'http://www.andrewdroll.com/nav.html' ;?>
 			</div>
 		</div>
 
@@ -65,7 +65,7 @@
 	
 <!--Footer -->
 	<div class="footer"> 
-		<?php include 'http://www.datah.net/footer.html' ;?>
+		<?php include 'http://www.andrewdroll.com/footer.html' ;?>
 	</div>
 
 </div>

@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<base href="http://www.datah.net/"/>
+	<base href="http://www.andrewdroll.com/"/>
 	<?php include 'fonts.html' ;?>
 	<link type="text/css" rel="stylesheet" href="mainstyle.css"/>
 	<title>Andrew Droll - CV</title>
